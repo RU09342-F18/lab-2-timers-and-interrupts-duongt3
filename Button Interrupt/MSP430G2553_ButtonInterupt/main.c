@@ -4,9 +4,9 @@
 /**
  * File: main.c
  * Author: Timothy Duong
- * Date Created: 09/18/18
+ * Date Created: 09/27/18
  *
- * Used on the MSP430G2553,
+ * Used on the MSP430G2553 to toggle an LED everytime a button is pressed using interrupts.
  */
 int main(void)
 {
